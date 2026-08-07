@@ -1,0 +1,12 @@
+{
+  "name": "Facebook-hajun",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Auto-Reply Bot with Admin Controls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fca-project": "^1.3.4"
+  }
+}
