@@ -1,4 +1,4 @@
-const login = require("fca-unofficial");
+const { login } = require("biar-fca");
 const fs = require("fs");
 
 // Config
